@@ -4,13 +4,12 @@
 
 ## Overview
 
-This is a test project that integrates **Django** as the backend framework with various frontend technologies and **Java**. This project serves as a demonstration of building a full-stack application using modern web development practices.
+This is a test project that integrates **Django** as the backend framework with various frontend technologies and **Java Script**. This project serves as a demonstration of building a full-stack application using modern web development practices.
 
 ## Features
 
 - **Django Backend**: A robust and scalable backend powered by Django.
-- **Frontend Technologies**: Utilizes HTML, CSS, and JavaScript for a responsive and interactive user interface.
-- **Java Integration**: Implements Java for specific features or services within the application.
+- **Frontend Technologies**: Utilizes HTML, CSS, and JavaScript for a responsive and interactive user interface
 - **RESTful API**: Provides a RESTful API for seamless communication between frontend and backend.
 - **Database Management**: Uses SQLite for local development and PostgreSQL for production.
 
@@ -21,14 +20,13 @@ This is a test project that integrates **Django** as the backend framework with 
 - Python 3.x
 - Django
 - Node.js (for frontend dependencies)
-- Java Development Kit (JDK)
 
 ### Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clonehttps://github.com/mahdi-naeeni/first-djando-web-site.git
+   cd first-djando-web-site
    ```
 
 2. **Set up a Python virtual environment**:
@@ -65,7 +63,6 @@ This is a test project that integrates **Django** as the backend framework with 
 ## Contributing
 
 Contributions are welcome! Please create a pull request for any improvements or features you want to add.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
