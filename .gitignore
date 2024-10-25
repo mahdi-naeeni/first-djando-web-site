@@ -28,6 +28,7 @@ media
 .Python
 build/
 develop-eggs/
+.idea/
 dist/
 downloads/
 eggs/
